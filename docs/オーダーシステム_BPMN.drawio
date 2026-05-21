@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="reservation-admin-bpmn" name="予約・管理 BPMN">
-        <mxGraphModel dx="986" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1960" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -47,10 +47,10 @@
                     <mxGeometry x="40" y="580" width="1540" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="r_confirm" value="予約確定を通知 / 紙出力" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lane_admin" vertex="1">
-                    <mxGeometry x="1165" y="40" width="170" height="60" as="geometry"/>
+                    <mxGeometry x="1130" y="45" width="170" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="r_lock" value="予約席をロック&#xa;例：12:00予約なら11:10から4人席を確保" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lane_admin" vertex="1">
-                    <mxGeometry x="1370" y="35" width="170" height="80" as="geometry"/>
+                    <mxGeometry x="1340" y="55" width="170" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="m_start" value="管理作業" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="lane_admin" vertex="1">
                     <mxGeometry x="70" y="105" width="60" height="60" as="geometry"/>
